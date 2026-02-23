@@ -1,6 +1,6 @@
 # Nile-Bridge-Sales-Performance-Dashboard
 This project was built to solve a real business problem.
-![Dashboard](Screenshot 2026-02-21 153238.png)
+![Dashboard](Dashboard.png)
 This dashboard enables decision-makers to detect hidden losses, understand customer behavior, and take data-driven actions to improve profitability.  
  
 The goal was not just to analyze data, but to **uncover hidden problems and provide actionable insights**.  
