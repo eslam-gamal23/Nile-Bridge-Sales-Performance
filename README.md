@@ -16,7 +16,8 @@ The company faced high sales numbers but unclear profitability and customer comp
 
 ## Data Processing  
 
-### Using Power Query:  
+### Using Power Query:
+- Fix Ship-Date Issues
 - Calculated shipping duration (Order Date vs Ship Date)  
 - Calculated discount value  
 
