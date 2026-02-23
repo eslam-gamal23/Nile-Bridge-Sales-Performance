@@ -1,5 +1,4 @@
 # NileBridge Sales Performance Dashboard
-This project was built to solve a real business problem.
 ![Dashboard](Dashboard.png)
 This dashboard enables decision-makers to detect hidden losses, understand customer behavior, and take data-driven actions to improve profitability.  
  
