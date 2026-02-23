@@ -23,12 +23,12 @@ The company faced high sales numbers but unclear profitability and customer comp
 ### Using Power Pivot: 
 - Built data model  
 - Created key measures:
-  - Total sales → 254M
-  - Avg delivery time → 4.3 days (higher than expected for critical orders)
-  - Net sales → ~127M
-  - Return rate → 49.63% (significant business risk)
-  - Total discounts → 11M+
-  - Total quantity → ~44K units
+  - **Total sales → 254,885,986**
+  - **Avg delivery time → 4.3 days (higher than expected for critical orders)**
+  - **Net sales → 109,019,175**
+  - **Return rate → 49.63% (significant business risk)**
+  - **Total discounts → 31,561,202**
+  - **Total quantity → 130,430**
  
  ## Insights  
 - Return rate reached **49.63%** → major loss driver  
