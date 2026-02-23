@@ -24,16 +24,16 @@ The company faced high sales numbers but unclear profitability and customer comp
 - Built data model  
 - Created key measures:
   - **Total sales → 254,885,986**
-  - **Avg delivery time → 4.3 days (higher than expected for critical orders)**
+  - **Avg delivery time → 4.3 days** (higher than expected for critical orders)
   - **Net sales → 109,019,175**
-  - **Return rate → 49.63% (significant business risk)**
+  - **Return rate → 49.63%** (significant business risk)
   - **Total discounts → 31,561,202**
   - **Total quantity → 130,430**
  
  ## Insights  
-- Return rate reached **49.63%** → major loss driver  
-- Critical orders take longer than standard orders → supports customer complaints  
-- Sales heavily depend on discounts → weak customer loyalty  
+- Return rate reached **49.63%** → **major loss driver**  
+- Critical orders take longer than standard orders → **supports customer complaints**  
+- Sales heavily depend on discounts → **weak customer loyalty**  
 - Zamalek branch has highest returns despite Cairo leading sales
 
 ## Recommendations  
