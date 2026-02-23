@@ -2,8 +2,6 @@
 ![Dashboard](Dashboard.png)
 This dashboard enables decision-makers to detect hidden losses, understand customer behavior, and take data-driven actions to improve profitability.  
  
-The goal was not just to analyze data, but to **uncover hidden problems and provide actionable insights**.  
-
 ## Key Finding  
 Despite achieving **254M in total sales**, the company suffers from a **49.63% return rate**, significantly impacting net sales and profitability.  
 
